@@ -13,3 +13,8 @@
 
 `vagrant init --provision` for subsequent times
 
+web - 192.168.2.101
+
+app-node1 - 192.168.2.102
+
+app-node2 - 192.168.2.103
